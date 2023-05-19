@@ -1,0 +1,13 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 1
+
+newmtl Wheel
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.101961 0.101961 0.101961
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.001000
+d 1.000000
+illum 1
+map_Kd Wheel.bmp
